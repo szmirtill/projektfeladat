@@ -1,0 +1,83 @@
+/* MainPage.css */
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #5C4033; /* Barna szöveg */
+    background: linear-gradient(to bottom, #FDF6E3, #F8E1C4, #EBC79E) !important; /* Pékséghez illő háttér */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.main-page {
+    background: white;
+    padding: 3rem; /* Nagyobb méret asztali gépen */
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 100%;
+    max-width: 600px; /* Nagyobb méret asztali gépen */
+    margin: auto; /* Középre igazítás */
+}
+
+h1, h2, h3, h4 {
+    color: #5C4033; /* Barna szöveg */
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 1rem;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+    text-align: left;
+}
+
+label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #5C4033;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+/* Gombok */
+button, .register-btn, .login-btn {
+    width: 100%;
+    padding: 10px;
+    background: linear-gradient(to bottom, #D9A065, #C7864D); /* Meleg arany színátmenet */
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out, transform 0.2s;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+    button:hover, .register-btn:hover, .login-btn:hover {
+        background: linear-gradient(to bottom, #BF8B50, #A76A44);
+        transform: translateY(-2px);
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25);
+    }
+
+.register-btn, .login-btn {
+    margin-top: 10px;
+}
+
+.error {
+    color: red;
+    font-size: 14px;
+    margin-top: 0.5rem;
+}
+
+.welcome-message {
+    color: #5C4033;
+}

@@ -1,0 +1,130 @@
+/* Reset mindenre */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Háttér és alapszínek */
+html, body {
+    background: linear-gradient(to bottom, #FDF6E3, #F8E1C4, #EBC79E);
+    height: auto;
+    min-height: 100vh;
+    width: 100%;
+    overflow-x: hidden;
+    color: #5C4033;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Fejléc */
+.header {
+    background-color: #8B5E3C;
+    width: 100%;
+    padding: 15px 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    padding: 10px 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+    nav ul li a {
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+        font-size: 18px;
+    }
+
+/* Oldal konténer */
+.mainpage3-container {
+    text-align: left;
+    padding-top: 120px;
+    min-height: 100vh;
+}
+
+/* Kategória gombok */
+.category-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.category-btn {
+    background: #C7864D;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+    .category-btn:hover {
+        background: #A76A44;
+    }
+
+    .category-btn.selected {
+        background: #8B5E3C;
+    }
+
+/* Szűrés gomb */
+.filter-button {
+    margin-top: 15px;
+    padding: 12px;
+    width: 100%;
+    font-weight: bold;
+}
+
+/* Termékek */
+.product-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.product-card {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 220px;
+}
+
+    .product-card h3 {
+        font-size: 18px;
+        font-weight: bold;
+    }
+
+    .product-card p {
+        font-size: 16px;
+        color: #5C4033;
+    }
+
+/* Gombok */
+.buy-button {
+    background: #D9A065;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    font-size: 14px;
+    cursor: not-allowed;
+}
+
+    .buy-button.disabled {
+        background: #ccc;
+        color: #666;
+        cursor: not-allowed;
+    }

@@ -1,0 +1,30 @@
+/* src/Style/About.css */
+.about-container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, #FDF6E3, #F8E1C4, #EBC79E);
+    padding: 50px;
+}
+
+.about-content {
+    background: white;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 800px;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    color: #8B5E3C;
+    font-size: 32px;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    color: #5C4033;
+    font-size: 18px;
+}

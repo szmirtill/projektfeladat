@@ -1,0 +1,1525 @@
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.staticwebassets.endpoints.json
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.exe
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.deps.json
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.runtimeconfig.json
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.pdb
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.csproj.AssemblyReference.cache
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.AssemblyInfoInputs.cache
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.AssemblyInfo.cs
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.csproj.CoreCompileInputs.cache
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\scopedcss\bundle\ReactApp1.Server.styles.css
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.ReactApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.ReactApp1.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ReactApp1.Server.props
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReactApp1.Server.props
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReactApp1.Server.props
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp.139653F6.Up2Date
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\refint\ReactApp1.Server.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.pdb
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.genruntimeconfig.cache
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ref\ReactApp1.Server.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Humanizer.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nagmat20\source\repos\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.staticwebassets.endpoints.json
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.exe
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.deps.json
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.runtimeconfig.json
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.pdb
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Humanizer.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.csproj.AssemblyReference.cache
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.AssemblyInfoInputs.cache
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.AssemblyInfo.cs
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.csproj.CoreCompileInputs.cache
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\scopedcss\bundle\ReactApp1.Server.styles.css
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.ReactApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.ReactApp1.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ReactApp1.Server.props
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReactApp1.Server.props
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReactApp1.Server.props
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp.139653F6.Up2Date
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\refint\ReactApp1.Server.dll
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.pdb
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.genruntimeconfig.cache
+C:\Users\info\Documents\nagy máté jános\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ref\ReactApp1.Server.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.staticwebassets.endpoints.json
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.exe
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.deps.json
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.runtimeconfig.json
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.pdb
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Humanizer.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.csproj.AssemblyReference.cache
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.AssemblyInfoInputs.cache
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.AssemblyInfo.cs
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.csproj.CoreCompileInputs.cache
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\scopedcss\bundle\ReactApp1.Server.styles.css
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.ReactApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.ReactApp1.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ReactApp1.Server.props
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReactApp1.Server.props
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReactApp1.Server.props
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp.139653F6.Up2Date
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\refint\ReactApp1.Server.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.pdb
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.genruntimeconfig.cache
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ref\ReactApp1.Server.dll
+C:\Users\nagmat20\Documents\feladat\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.staticwebassets.endpoints.json
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.exe
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.deps.json
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.runtimeconfig.json
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.pdb
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Humanizer.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.csproj.AssemblyReference.cache
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.AssemblyInfoInputs.cache
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.AssemblyInfo.cs
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.csproj.CoreCompileInputs.cache
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\scopedcss\bundle\ReactApp1.Server.styles.css
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.ReactApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.ReactApp1.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ReactApp1.Server.props
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReactApp1.Server.props
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReactApp1.Server.props
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp.139653F6.Up2Date
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\refint\ReactApp1.Server.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.pdb
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.genruntimeconfig.cache
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ref\ReactApp1.Server.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\appsettings.Development.json
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\appsettings.json
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.staticwebassets.endpoints.json
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\spa.proxy.json
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.exe
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.deps.json
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.runtimeconfig.json
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.pdb
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Azure.Core.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Azure.Identity.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Humanizer.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\MySqlConnector.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.ClientModel.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.CodeDom.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Memory.Data.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.csproj.AssemblyReference.cache
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\spa.proxy.json
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.AssemblyInfoInputs.cache
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.AssemblyInfo.cs
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.csproj.CoreCompileInputs.cache
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\scopedcss\bundle\ReactApp1.Server.styles.css
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.build.json
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.development.json
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.ReactApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.ReactApp1.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ReactApp1.Server.props
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReactApp1.Server.props
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReactApp1.Server.props
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.pack.json
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp.139653F6.Up2Date
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\refint\ReactApp1.Server.dll
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.pdb
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.genruntimeconfig.cache
+E:\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ref\ReactApp1.Server.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.staticwebassets.endpoints.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.exe
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.deps.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.runtimeconfig.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.pdb
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.csproj.AssemblyReference.cache
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.AssemblyInfoInputs.cache
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.AssemblyInfo.cs
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.csproj.CoreCompileInputs.cache
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\scopedcss\bundle\ReactApp1.Server.styles.css
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.ReactApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.ReactApp1.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ReactApp1.Server.props
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReactApp1.Server.props
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReactApp1.Server.props
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp.139653F6.Up2Date
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\refint\ReactApp1.Server.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.pdb
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.genruntimeconfig.cache
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ref\ReactApp1.Server.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.staticwebassets.endpoints.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.exe
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.deps.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.runtimeconfig.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.pdb
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.csproj.AssemblyReference.cache
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.AssemblyInfoInputs.cache
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.AssemblyInfo.cs
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.csproj.CoreCompileInputs.cache
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\scopedcss\bundle\ReactApp1.Server.styles.css
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.ReactApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.ReactApp1.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ReactApp1.Server.props
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReactApp1.Server.props
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReactApp1.Server.props
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp.139653F6.Up2Date
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\refint\ReactApp1.Server.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.pdb
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.genruntimeconfig.cache
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ref\ReactApp1.Server.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.staticwebassets.endpoints.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.exe
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.deps.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.runtimeconfig.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.pdb
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.csproj.AssemblyReference.cache
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.AssemblyInfoInputs.cache
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.AssemblyInfo.cs
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.csproj.CoreCompileInputs.cache
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\scopedcss\bundle\ReactApp1.Server.styles.css
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.ReactApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.ReactApp1.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ReactApp1.Server.props
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReactApp1.Server.props
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReactApp1.Server.props
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp.139653F6.Up2Date
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\refint\ReactApp1.Server.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.pdb
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.genruntimeconfig.cache
+C:\Users\Danig\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ref\ReactApp1.Server.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.exe
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.deps.json
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.runtimeconfig.json
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.pdb
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Humanizer.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.csproj.AssemblyReference.cache
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.AssemblyInfoInputs.cache
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.AssemblyInfo.cs
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.csproj.CoreCompileInputs.cache
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.ReactApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ReactApp1.Server.props
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReactApp1.Server.props
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReactApp1.Server.props
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\scopedcss\bundle\ReactApp1.Server.styles.css
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.csproj.CopyComplete
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\refint\ReactApp1.Server.dll
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.pdb
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.genruntimeconfig.cache
+C:\Users\nagmat20\Documents\ReactApp1\ReactApp1\ReactApp1\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ref\ReactApp1.Server.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.staticwebassets.endpoints.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.exe
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.deps.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.runtimeconfig.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ReactApp1.Server.pdb
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.csproj.AssemblyReference.cache
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.AssemblyInfoInputs.cache
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.AssemblyInfo.cs
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.csproj.CoreCompileInputs.cache
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\scopedcss\bundle\ReactApp1.Server.styles.css
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.ReactApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.ReactApp1.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ReactApp1.Server.props
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReactApp1.Server.props
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReactApp1.Server.props
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp.139653F6.Up2Date
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\refint\ReactApp1.Server.dll
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.pdb
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ReactApp1.Server.genruntimeconfig.cache
+C:\Users\Danig\Documents\ReactApp1\ReactApp1.Server\obj\Debug\net8.0\ref\ReactApp1.Server.dll
